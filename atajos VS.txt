@@ -1,0 +1,7 @@
+Paso algunos atajos útiles de VS:
+
+-Comentar bloque de código seleccionado: ctrl + }
+-Mover linea de código hacia arriba/abajo: alt + dirección (flecha)
+-Cursor múltiple, para corregir un texto repetido mal escrito: ctrl + F2 (ejemplo: nombre: => titulo: en los objetos)
+-Cambiar el formato en una línea de JSON a formato "bonito": ctrl + k ó ctrl + f (puede variar)
+-Con la flecha subir o bajar, se pueden buscar antiguas ejecuciones en la terminal.

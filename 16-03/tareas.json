@@ -1,0 +1,19 @@
+[
+        {
+           "titulo": "Xenoblade",
+           "estado": "terminada"  
+        },
+        {
+            "titulo": "Zelda",
+            "estado": "pendiente"   
+        },
+        {
+            "titulo": "Mario",
+            "estado": "en progreso" 
+        },
+        {
+            "titulo": "Kirby",
+            "estado": "en progreso" 
+        }
+]
+   
